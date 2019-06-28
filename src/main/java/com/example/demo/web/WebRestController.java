@@ -1,7 +1,6 @@
 package com.example.demo.web;
 
-import com.example.demo.domain.posts.PostsRepository;
-import com.example.demo.domain.posts.PostsSaveRequestDto;
+import com.example.demo.domain.posts.dto.PostsSaveRequestDto;
 import com.example.demo.service.PostsService;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;

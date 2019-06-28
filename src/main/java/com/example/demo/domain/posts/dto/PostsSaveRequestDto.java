@@ -1,5 +1,6 @@
-package com.example.demo.domain.posts;
+package com.example.demo.domain.posts.dto;
 
+import com.example.demo.domain.posts.Posts;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

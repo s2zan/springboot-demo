@@ -2,7 +2,7 @@ package com.example.demo.service;
 
 import com.example.demo.domain.posts.Posts;
 import com.example.demo.domain.posts.PostsRepository;
-import com.example.demo.domain.posts.PostsSaveRequestDto;
+import com.example.demo.domain.posts.dto.PostsSaveRequestDto;
 import org.junit.After;
 import org.junit.Test;
 import org.junit.runner.RunWith;
